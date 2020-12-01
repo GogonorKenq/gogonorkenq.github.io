@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+h1, p, a {
+	color: white;
+	font-family: Permanent Marker;
+}
+
+.Link {
+	text-decoration: none;
+}
+
+p	{
+	line-height: 10%;
+}
+
+body {
+   background: black url(https://em.wattpad.com/a08c435f51f2b39aaf88e8a5eeb5419f1c554126/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f33437333506a2d4a45364b7464673d3d2d3536393430323731312e313561613538366131653830663734383939383531353936343738322e676966);
+   background-size: cover;
+   background-attachment: fixed
+}
