@@ -1,3 +1,3 @@
 # gogonorkenq.github.io
-To use site go to
+copy name reprository and use
 [My working url](gogonorkenq.github.io/mainpage.html)
